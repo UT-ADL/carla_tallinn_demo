@@ -2,6 +2,8 @@
 
 A custom CARLA simulator map featuring a Tallinn city environment.
 
+[![Watch the video](https://i.imgur.com/I14i47P.jpeg)](https://www.youtube.com/watch?v=_3USNyk5Cgk)
+
 ## Installation
 
 1. Download [CARLA 0.9.15](https://tiny.carla.org/carla-0-9-15-linux).
